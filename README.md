@@ -1,6 +1,6 @@
 # VirtuDrive
 
-# Otonom Kontrol Simülasyonu Nedir?
+# VirtuDrive  Nedir?
 
 ACS, Bir aracın uzaktan kontrolünü herhangi bir kumanda veya başka bir donanım olmadan sadece bir bilgisayar ve kamera ile kontrol edebilmeyi sağlar. Kişilerin kamera önündeki hareketlerini inceleyerek ve onların bir sanal kumanda içerisinde verdikleri komutları inceler. Araçlarının her yönden görüntülerini canlı olarak takip etmelerini ve yol,hız,konum,güzergah bilgileri ve hava durumu gibi verileri de sürekli olarak görerek sürüş yapabilirler.
 
@@ -10,7 +10,7 @@ Kişilerin bir bilgisayara ve bir adet kameraya sahip olmaları yeterlidir. Bilg
 # Faydaları Nelerdir?
 Kişilerin yaptıkları işlerde can güvenliğini arttırmak temel hedefimizdir. Trafikte güvenliğini ve araç üzerindeki kontrollerini arttırarak ölüm sayısının düşmesini sağlamaktır. Ekstra olarak, sürücüsüz araç teknolojine katkıda bulunarak ilerlemesini ve sanayi ve altyapıya katkısı olacaktır.
 
-# What is Autonomous Control Simulation?
+# What is VirtuDrive?
 
 ACS enables remote control of a vehicle without any remote control or other hardware, just a computer and a camera. It examines the movements of people in front of the camera and examines the commands they give in a virtual remote control. They can follow live images of their vehicles from all directions and can drive by constantly seeing data such as road, speed, location, route information and weather conditions.
 
