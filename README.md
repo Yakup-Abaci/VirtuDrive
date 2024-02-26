@@ -1,5 +1,9 @@
 # VirtuDrive
 
+## Team Members 
+* Yakup ABACİ - Bursa Technical University, 4th Grade Computer Science Student
+* Erdal NAYİR - Bursa Technical University, 4th Grade Computer Science Student
+
 # What is VirtuDrive?
 
 ACS enables remote control of a vehicle without any remote control or other hardware, just a computer and a camera. It examines the movements of people in front of the camera and examines the commands they give in a virtual remote control. They can follow live images of their vehicles from all directions and can drive by constantly seeing data such as road, speed, location, route information and weather conditions.
